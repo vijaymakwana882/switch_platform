@@ -21,7 +21,7 @@ class Paltform_switcher extends StatefulWidget {
 
 class _Paltform_switcherState extends State<Paltform_switcher> {
     ThemeMode themeMode = ThemeMode.light;
-  List ContactList = [];
+
 
   @override
   Widget build(BuildContext context) {
